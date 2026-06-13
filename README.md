@@ -1,5 +1,7 @@
 # tierbroker
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org) [![Zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](#) [![Built by WCN](https://img.shields.io/badge/built%20by-WCN%20Development%20Co-1f6feb.svg)](https://github.com/WCN-DEV-CO)
+
 **Fair job scheduling + automatic failover across many providers — with per-provider rate limits, quotas, cooldowns, and backoff.**
 
 You bring the providers (free-tier accounts, API keys, GPU hosts, microservices). `tierbroker` decides *which one* should handle each job, spreads load fairly, respects each provider's limits, and fails over automatically when one goes down. Zero dependencies.
