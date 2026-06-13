@@ -58,7 +58,7 @@ PRs welcome — keep it dependency-free. Ideas: async `submit`, persistent quota
 MIT © WCN Development Co, LLC
 ## Working with us
 
-We're [WCN Development Co, LLC](https://github.com/gphoenix172-droid) — we build large-scale systems and open-source the useful pieces. If you're building in this space and want to **partner, integrate, hire, or collaborate**, we'd genuinely like to hear from you. Open an issue tagged `partnership`, or reach out and let's find something mutually beneficial.
+We're [WCN Development Co, LLC](https://github.com/WCN-DEV-CO) — we build large-scale systems and open-source the useful pieces. If you're building in this space and want to **partner, integrate, hire, or collaborate**, we'd genuinely like to hear from you. Open an issue tagged `partnership`, or reach out and let's find something mutually beneficial.
 ---
 
-*Built and open-sourced by [WCN Development Co, LLC](https://github.com/gphoenix172-droid) — we build serious infrastructure and ship the useful pieces back to the community.*
+*Built and open-sourced by [WCN Development Co, LLC](https://github.com/WCN-DEV-CO) — we build serious infrastructure and ship the useful pieces back to the community.*
